@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(34, 84, 203)
+
+}
+img{
+    width: 600px;
+    border-radius: 10px;
+    float:right;
+    margin-top:170px;
+    margin-right:100px;
+    
+}
+div{
+    float: left;
+    margin-top: 170px;
+    margin-left: 130px;
+
+}
+
+h1{
+    font-family: "Open Sans", sans-serif;
+    font-size: 50px;
+    color: white;
+
+}
+p{
+    font-family: "Open Sans", sans-serif;
+    font-size: large;
+    color:rgb(199, 202, 243);
+    font-weight: 700;
+}
+
+button{
+    font-family: "Open Sans", sans-serif;
+    width: 130px;
+    height: 45px;
+    border-radius: 6px;
+    border:0px;
+    color:rgb(44, 83, 195);
+    font-weight: 700;
+    cursor: pointer;
+}
